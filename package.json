@@ -1,0 +1,25 @@
+{
+  "name": "rivercrossing",
+  "version": "1.0.0",
+  "description": "Classic river problems solved using Dijkstra's algo",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhantpanda/FoxGooseCorn.git"
+  },
+  "keywords": [
+    "Fox.",
+    "Goose",
+    "Corn",
+    "hashnode"
+  ],
+  "author": "Sidhant Panda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidhantpanda/FoxGooseCorns/issues"
+  },
+  "homepage": "https://github.com/sidhantpanda/FoxGooseCorns#readme"
+}
